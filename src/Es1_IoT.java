@@ -42,6 +42,18 @@ public class Es1_IoT {
                     ", batteriaScarica=" + batteriaScarica +
                     '}';
         }
+
+
+
+        public static parsePacchetto(String raw){
+
+        }
+
+
+
+
+
+
     }
 
 
